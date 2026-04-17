@@ -1,0 +1,173 @@
+{
+  "generatedAt": "2026-04-17T00:48:57.315Z",
+  "itemCount": 15,
+  "source": "newsapi_everything",
+  "itemSource": "newsapi_article",
+  "items": [
+    {
+      "id": "https://pypi.org/project/yolo-coder/",
+      "repo": "Pypi.org",
+      "source": "newsapi_article",
+      "title": "yolo-coder added to PyPI",
+      "tagName": "",
+      "body": "An AI agent that fixes your broken CLI commands automatically using a local LLM\nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+      "url": "https://pypi.org/project/yolo-coder/",
+      "publishedAt": "2026-04-16T00:48:29Z",
+      "author": "ozkanerdem@gmail.com"
+    },
+    {
+      "id": "https://siliconangle.com/2026/04/15/qlik-debuts-new-agentic-capabilities-aiming-enhance-ai-trust-transparency/",
+      "repo": "SiliconANGLE News",
+      "source": "newsapi_article",
+      "title": "Qlik debuts new agentic capabilities, aiming to enhance AI trust and transparency",
+      "tagName": "",
+      "body": "Data integration and analytics heavyweight QlikTech International AB took the wraps off a number of new agentic artificial intelligence capabilities today as it opened the doors to its annual customer conference in Orlando. The updates include new AI agents f…\nData integration and analytics heavyweight QlikTech International AB took the wraps off a number of new agentic artificial intelligence capabilities today as it opened the doors to its annual custome… [+5380 chars]",
+      "url": "https://siliconangle.com/2026/04/15/qlik-debuts-new-agentic-capabilities-aiming-enhance-ai-trust-transparency/",
+      "publishedAt": "2026-04-16T00:48:29Z",
+      "author": "Mike Wheatley"
+    },
+    {
+      "id": "https://pypi.org/project/ikiro-dev-kit/",
+      "repo": "Pypi.org",
+      "source": "newsapi_article",
+      "title": "ikiro-dev-kit added to PyPI",
+      "tagName": "",
+      "body": "Build AI agent tools with YAML — no code required. Dev kit for the Ikiro superpower platform.\nBuild AI agent tools with YAML. No code required.\r\nDefine what your tool does in a YAML file, deploy it, and a real AI agent decides when and how to use it alongside 50+ built-in tools like calendar,… [+2592 chars]",
+      "url": "https://pypi.org/project/ikiro-dev-kit/",
+      "publishedAt": "2026-04-16T00:45:52Z",
+      "author": "dev@ikiro.ai"
+    },
+    {
+      "id": "https://gemini.google/mac/",
+      "repo": "Gemini.google",
+      "source": "newsapi_article",
+      "title": "macOS 版 Gemini - あなた専用の AI を備えたネイティブ デスクトップ アプリ",
+      "tagName": "",
+      "body": "Experience Gemini for Mac. A native desktop app built for deep work and instant contextual help. Summarise docs, fix code and more. Download now.\nTo give Gemini context about your current work:\r\n<ol><li>Click the Add files and tools in the Gemini app.\r\n</li><li>Select Share window.\r\n</li><li>Choose the specific window that you want to share.\r\n… [+215 chars]",
+      "url": "https://gemini.google/mac/",
+      "publishedAt": "2026-04-16T00:45:26Z",
+      "author": ""
+    },
+    {
+      "id": "https://pypi.org/project/pgns-agent-openai/0.2.0/",
+      "repo": "Pypi.org",
+      "source": "newsapi_article",
+      "title": "pgns-agent-openai 0.2.0",
+      "tagName": "",
+      "body": "OpenAI Agents SDK adapter for pgns-agent\nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+      "url": "https://pypi.org/project/pgns-agent-openai/0.2.0/",
+      "publishedAt": "2026-04-16T00:37:32Z",
+      "author": ""
+    },
+    {
+      "id": "https://pypi.org/project/kairos-ai/0.4.3/",
+      "repo": "Pypi.org",
+      "source": "newsapi_article",
+      "title": "kairos-ai 0.4.3",
+      "tagName": "",
+      "body": "Security-hardened, model-agnostic Python SDK for contract-enforced AI agent workflows\nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+      "url": "https://pypi.org/project/kairos-ai/0.4.3/",
+      "publishedAt": "2026-04-16T00:37:17Z",
+      "author": "info@vanxa.com"
+    },
+    {
+      "id": "https://slashdot.org/firehose.pl?op=view&amp;id=181722782",
+      "repo": "Slashdot.org",
+      "source": "newsapi_article",
+      "title": "Google rolls out a native Gemini app for Mac - TechCrunch",
+      "tagName": "",
+      "body": "Google rolls out a native Gemini app for MacTechCrunch The Gemini app is now on Macblog.google Google Debuts Standalone Gemini App for Apple’s MacOSBloomberg Google Gemini Mac app focuses on speed over deep integrationAppleInsider Mac, meet Gemini: Google's A…\nThe Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181722782",
+      "publishedAt": "2026-04-16T00:32:33Z",
+      "author": "feedfeeder"
+    },
+    {
+      "id": "https://pypi.org/project/cogent-ai/1.19.9/",
+      "repo": "Pypi.org",
+      "source": "newsapi_article",
+      "title": "cogent-ai 1.19.9",
+      "tagName": "",
+      "body": "Production AI agent framework with memory control and semantic caching\nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+      "url": "https://pypi.org/project/cogent-ai/1.19.9/",
+      "publishedAt": "2026-04-16T00:32:08Z",
+      "author": ""
+    },
+    {
+      "id": "https://github.com/macOS26/Agent",
+      "repo": "Github.com",
+      "source": "newsapi_article",
+      "title": "Agent - Native Mac OS X coding ide/harness",
+      "tagName": "",
+      "body": "Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Saf...\n<ul><li>Apple AI as a real tool-calling agent: On-device Apple Intelligence (FoundationModels.Tool) handles UI automation requests like \"take a photo using Photo Booth\" locally multi-step tool calls,… [+33259 chars]",
+      "url": "https://github.com/macOS26/Agent",
+      "publishedAt": "2026-04-16T00:19:40Z",
+      "author": "jv22222"
+    },
+    {
+      "id": "https://pypi.org/project/cogent-ai/1.19.8/",
+      "repo": "Pypi.org",
+      "source": "newsapi_article",
+      "title": "cogent-ai 1.19.8",
+      "tagName": "",
+      "body": "Production AI agent framework with memory control and semantic caching\nA required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+      "url": "https://pypi.org/project/cogent-ai/1.19.8/",
+      "publishedAt": "2026-04-16T00:14:14Z",
+      "author": ""
+    },
+    {
+      "id": "https://siliconangle.com/2026/04/15/googles-gemini-3-1-flash-tts-offers-unparalleled-control-ai-voices/",
+      "repo": "SiliconANGLE News",
+      "source": "newsapi_article",
+      "title": "Google’s Gemini 3.1 Flash TTS offers unparalleled control over AI voices",
+      "tagName": "",
+      "body": "Google LLC’s DeepMind artificial intelligence unit has rolled out a new text-to-speech model called Gemini 3.1 Flash TTS. Unlike its earlier, robotic predecessors, it enables users to direct the vocal style, delivery and pace of chatbot responses through text…\nGoogle LLCs DeepMind artificial intelligence unit has rolled out a new text-to-speech model called Gemini 3.1 Flash TTS. Unlike its earlier, robotic predecessors, it enables users to direct the vocal… [+3871 chars]",
+      "url": "https://siliconangle.com/2026/04/15/googles-gemini-3-1-flash-tts-offers-unparalleled-control-ai-voices/",
+      "publishedAt": "2026-04-16T00:08:08Z",
+      "author": "Mike Wheatley"
+    },
+    {
+      "id": "https://alltoc.com/science/how-does-stableox-cat-speed-catalyst-discovery",
+      "repo": "Alltoc.com",
+      "source": "newsapi_article",
+      "title": "How does StableOx-Cat speed catalyst discovery? #science",
+      "tagName": "",
+      "body": "An AI tool that removes a major bottleneck in clean energy materials StableOx Cat is an artificial intelligence system designed to help researchers find better metal oxide catalysts without requiring people to write extensive coding. The core idea is to make …\nStableOx-Cat is an artificial-intelligence system designed to help researchers find better metal-oxide catalysts without requiring people to write extensive coding. The core idea is to make it easier… [+1620 chars]",
+      "url": "https://alltoc.com/science/how-does-stableox-cat-speed-catalyst-discovery",
+      "publishedAt": "2026-04-16T00:01:51Z",
+      "author": "AllToc"
+    },
+    {
+      "id": "https://www.c-sharpcorner.com/news/openai-unveils-major-evolution-of-the-agents-sdk-native-sandboxes-and-advanced-orchestration",
+      "repo": "C-sharpcorner.com",
+      "source": "newsapi_article",
+      "title": "OpenAI Unveils Major Evolution of the Agents SDK: Native Sandboxes and Advanced Orchestration",
+      "tagName": "",
+      "body": "OpenAI launches the next evolution of its Agents SDK, featuring native sandbox execution, durable execution via snapshotting, and support for GPT-5.4.\nOpenAI has announced a massive update to its Agents SDK, introducing standardized infrastructure designed to move AI agents from prototypes to production. The core of this update is a model-native ha… [+2467 chars]",
+      "url": "https://www.c-sharpcorner.com/news/openai-unveils-major-evolution-of-the-agents-sdk-native-sandboxes-and-advanced-orchestration",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "author": "noreply@c-sharpcorner.com (Praveen Kumar)"
+    },
+    {
+      "id": "https://tech.yahoo.com/ai/claude/articles/anthropic-may-now-demand-government-000000288.html",
+      "repo": "Yahoo Entertainment",
+      "source": "newsapi_article",
+      "title": "Anthropic may now demand your government ID and a real-time photo to use its AI model Claude",
+      "tagName": "",
+      "body": "Users are increasingly concerned about how their data is being used.\nAnthropic raised eyebrows this week with the introduction of an identity verification system to access certain functions of its artificial intelligence model, Claude. \r\nA post on Binance Square annou… [+2089 chars]",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-may-now-demand-government-000000288.html",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "author": "Erin Feiger"
+    },
+    {
+      "id": "https://www.c-sharpcorner.com/news/anthropic-launches-claude-opus-47",
+      "repo": "C-sharpcorner.com",
+      "source": "newsapi_article",
+      "title": "Anthropic Launches Claude Opus 4.7",
+      "tagName": "",
+      "body": "Anthropic releases Claude Opus 4.7, delivering major gains in autonomous coding, high-resolution vision, and cybersecurity safeguards. Now available on API, Bedrock, and Vertex AI.\nAnthropic has officially announced the general availability of Claude Opus 4.7, its most advanced model for software engineering and complex reasoning. Positioned as a direct upgrade to Opus 4.6, the… [+2657 chars]",
+      "url": "https://www.c-sharpcorner.com/news/anthropic-launches-claude-opus-47",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "author": "noreply@c-sharpcorner.com (Praveen Kumar)"
+    }
+  ]
+}

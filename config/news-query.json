@@ -1,0 +1,12 @@
+{
+  "query": "\"artificial intelligence\" OR \"AI agent\" OR \"large language model\" OR OpenAI OR Anthropic OR Gemini OR ChatGPT",
+  "searchIn": "title,description",
+  "language": "en",
+  "sortBy": "publishedAt",
+  "pageSize": 15,
+  "lookbackDays": 7,
+  "domains": [],
+  "excludeDomains": [],
+  "from": "",
+  "to": ""
+}
