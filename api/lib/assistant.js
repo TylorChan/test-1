@@ -80,7 +80,7 @@ async function generateOpenAiAnswer(context, messages) {
         content: `结构化上下文：${JSON.stringify(context)}`,
       },
     ],
-    model: process.env.OPENAI_MODEL || 'gpt-4.1-mini',
+    model: process.env.OPENAI_MODEL || 'gpt-5.4-mini',
   })
 
   const text = extractText(response)

@@ -33,6 +33,10 @@
 
 ## AI使用方式
 
+- **模型与接口**：
+  - 当前项目统一使用 `OpenAI Responses API`。
+  - 新闻级 insight 抽取和日报级聚合分析默认模型都是 `gpt-5.4-mini`。
+  - 右栏 AI 助手默认也使用 `gpt-5.4-mini`，如环境变量 `OPENAI_MODEL` 有覆盖，则以环境变量为准。
 - **使用场景**：
   - 第一阶段：`lib/insight-generator.js` 中，AI 对每条新闻做轻量结构化抽取，输出 `summary`、`category`、`entities`、`signals`、`importanceHint`、`evidence`。
   - 第二阶段：`lib/report-generator.js` 中，AI 基于第一阶段的 insights 生成最终日报，输出 `reportTitle`、`executiveSummary`、`topEvents`、`deepDives`、`trendJudgments`。
